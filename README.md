@@ -1,7 +1,7 @@
 [![MasterHead](https://media0.giphy.com/headers/dhunten/0DvIY8fAjBSg.gif)](https://github.com/RelvinArsenio)
 <h1 align="center">Hi 👋, Aku Relvin</h1>
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Programmer+Newbie+Kotlin+%26+C%2B%2B" alt="Typing SVG" /></a></h3>
-<img align="right" alt="Coding" width="400" src="https://user-content.gitlab-static.net/461945fb27bdda62c025781dfe7c388c5dee306d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313035393538332f73637265656e73686f74732f343137313336372f636f64696e672d667265616b2e676966">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 
 
 
