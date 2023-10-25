@@ -30,15 +30,19 @@
 </p>
 
 <p>
-  <a href="https://github.com/RelvinArsenio">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RelvinArsenio&show_icons=true&locale=id&layout=donut" alt="RelvinArsenio" />
   </a>
 </p>
 
-<p>&nbsp;<a href="https://github.com/RelvinArsenio"><img align="center" src="https://github-readme-stats.vercel.app/api?username=RelvinArsenio&show_icons=true&locale=id" alt="RelvinArsenio" /></a></p>
+<p>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=RelvinArsenio&show_icons=true&locale=id" alt="RelvinArsenio" />
+  </a>
+</p>
 
 <p>
-  <a href="https://github.com/RelvinArsenio">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RelvinArsenio&locale=id" alt="RelvinArsenio" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=RelvinArsenio&locale=id" alt="GitHub Streak" />
   </a>
 </p>
