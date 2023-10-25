@@ -43,6 +43,6 @@
 
 <p>
   <a href="https://git.io/streak-stats">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=RelvinArsenio&locale=id" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=RelvinArsenio&locale=id" alt="GitHub Streak" />
   </a>
 </p>
