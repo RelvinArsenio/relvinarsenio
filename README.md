@@ -31,13 +31,13 @@
 
 <p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RelvinArsenio&show_icons=true&locale=id&layout=donut" alt="RelvinArsenio" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RelvinArsenio&show_icons=true&locale=id&layout=donut" alt="RelvinArsenio" />
   </a>
 </p>
 
 <p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=RelvinArsenio&show_icons=true&locale=id" alt="RelvinArsenio" />
+    <img src="https://github-readme-stats.vercel.app/api?username=RelvinArsenio&show_icons=true&locale=id" alt="RelvinArsenio" />
   </a>
 </p>
 
