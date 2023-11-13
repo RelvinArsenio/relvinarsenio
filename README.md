@@ -5,15 +5,15 @@
 
 
 
-- 🔭 Aku Sekarang Kuliah di [Darmajaya](https://www.darmajaya.ac.id/)
+- 🔭 Aku sekarang kuliah di [Darmajaya](https://www.darmajaya.ac.id/)
 
-- 🌱 Baru-baru ini aku belajar **Kotlin & C++**
+- 🌱 Baru-baru ini aku lagi belajar **Kotlin & C++**
 
-- 👨‍💻 Semua Project ku bisa di lihat di [Github](https://github.com/RelvinArsenio?tab=repositories)
+- 👨‍💻 Semua project ku bisa di lihat di [Github](https://github.com/RelvinArsenio?tab=repositories)
 
-- 📝 Seorang Newbie Yang Suka Tentang Programming
+- 📝 Seorang newbie yang suka tentang programming
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Bahasa and alat pemrograman:</h3>
 <p align="left"> 
   <a href="https://www.cplusplus.com" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="40" height="40"/> 
@@ -48,5 +48,7 @@
   </a>
 </p>
 --->
+
+<h3 align="left">Musik yang sedang diputar</h3>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31cpeidmxkkf746cpx2olvmkmoma&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31cpeidmxkkf746cpx2olvmkmoma&redirect=true)
