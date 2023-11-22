@@ -14,7 +14,7 @@
 
 - 💻 Semua project ku ada di [Github](https://github.com/RelvinArsenio?tab=repositories)
 
-- ✏️ Seorang programmer pemula yang suka ngoding
+- 🎮 Bukan cuma coding, aku juga suka main game
 
 ### 🛠 Bahasa dan Alat Pemrograman:
 
